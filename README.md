@@ -1,6 +1,6 @@
 # Starcraft AI
 
-Building a Starcraft Playing AI using the Blizzard API
+Building a Starcraft Playing AI using the Starcraft API
 
 # Resources
 - https://github.com/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment  
