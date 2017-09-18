@@ -1,4 +1,4 @@
-# starcraft_ai
+# Starcraft AI
 
 # Resources
 - https://github.com/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment  
